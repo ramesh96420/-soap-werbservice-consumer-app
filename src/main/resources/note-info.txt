@@ -1,0 +1,3 @@
+ https://www.youtube.com/watch?v=WJg3NUwq6zU&t=283s
+ 
+ To develop the client(SOAP Consume web service) we need all binding class so those binding class we get the wsdl file from SOAP Provider.
